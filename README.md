@@ -6,7 +6,7 @@ This repository contains notebooks and hackathons on the subject of Bayesian Opt
 
 **Authors:**
 
-- [Yong Lee](https://www.optimlpse.co.uk/author/yong-lee/)
+- [Yong Lee](https://www.optimlpse.co.uk/author/yong-lee/) | [Linkedin ](https://www.linkedin.com/in/leeyongle26)
 
 📅 Participants should have received a **preliminary schedule**. Any updates or changes will be communicated.
 
