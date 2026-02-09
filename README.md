@@ -77,7 +77,19 @@ H: Multi-fidelity Bo with BOTorch - Illustrative Example
 * Example of 1D input with qMFKG
 * Example of multi-dimensional input with Augmented Hartmann
 
-## Hackathon Submission
+## Exercise and Hackathons - Informationa and Submission
+
+### Information
+
+There are 3 exercises/hackathons contained in this repository. They call for the construction of a self-contained BO algorithm for the optimisation of various problems:
+
+A. Optimisation of a test function.
+
+B. Optimisation of chemical reaction condition.
+
+C. Optimisation of bioprocess.
+
+### Submission
 
 Paste your code into a .txt file (instead of a .py file) and send it via email to the following email: yl5119@imperial.ac.uk
 
@@ -101,7 +113,7 @@ https://colab.research.google.com/
 
 2. Copy the link bellow and Paste it to where it says 'Enter a GitHub URL'
 
-https://github.com/Yong-Labs/2025_BayesianOptimisation_SummerSchool_ReactCDT_Notebooks
+https://github.com/Yong-Labs/Bayesian-Optimisation-Workshop---Master-Student-Version/
 
 ![image](https://github.com/user-attachments/assets/416100d6-634f-4e6f-b60e-668e1d705f9a)
 
