@@ -77,7 +77,7 @@ H: Multi-fidelity Bo with BOTorch - Illustrative Example
 * Example of 1D input with qMFKG
 * Example of multi-dimensional input with Augmented Hartmann
 
-## Exercise and Hackathons - Informationa and Submission
+## Exercise and Hackathons - Information and Submission
 
 ### Information
 
