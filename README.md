@@ -6,9 +6,76 @@ This repository contains notebooks and hackathons on the subject of Bayesian Opt
 
 **Authors:**
 
-- [Yong Lee](https://www.optimlpse.co.uk/author/yong-lee/) 
+- [Yong Lee](https://www.optimlpse.co.uk/author/yong-lee/)
 
 📅 Participants should have received a **preliminary schedule**. Any updates or changes will be communicated.
+
+## Notebook Content Breakdown
+
+### (I) Intuition and Mathematics behind Bayesian Optimisation
+
+This section covers notebooks A to D. The notebooks focuses on the mathematical concepts governing Bayesian Optimisation. The exercises are a mixutre of coding exercises (ex. defining a function) and excersises for concept reinforcement.
+
+A: Statistical Intuition for Gaussian Process
+
+* 1D Gaussian Distribution
+* Multivariate Gaussian Distribution
+* The Covariance Matrix
+* Marginalisation
+* Probablistic Conditioning
+
+B: Gaussian Process 
+
+* Covariance Matrix
+* Kernel Functions
+* Conditioning on Training Data
+* GP regression
+* The mean function
+
+C: Bayesian Optimisation
+
+* Exploration vs Exploitation
+* Acquisition Functions (LCB)
+* 1D BO
+* Multidimensional BO
+
+D. Multi-batch Bayesian Optimisation 
+
+* Runtime of BO code
+* Priors and Posteriors
+* Thompson Sampling
+* Marginal Thompson Sampling
+
+### (II) Bayesian Optimisation for Chemical Reaction Optimisation
+
+This notebook explores how the fundemental BO workflow (with code from section A -> D) can be applied to chemical reaction optimisation. The focus here is on how the learnt mathematics of BO from previous sections can be applied (rather than to develop an effective BO workflow for reaction optimisation). Attached at the end of the notebook is a list of resources if one would like to deploy and use BO for reaction optimisation.
+
+E: BO for Reaction Optimisation
+
+* Chemical Descriptors
+* Optimisation of reaction conditions with BO
+* Resources for practical BO
+
+### (III) Bayesian Optimisation with BOTorch
+
+This section covers notebooks F to H. The notebooks focuses on how BO is realistically deloyed for a range of applications and use cases. We move from defining each BO components ourselves from the previous sections to using an efficient BO package  called BOTorch. 
+
+F: GP with BOTorch
+
+* PyTorch Tensor creation and manipulation
+* GP regression
+* Sampling from the Posterior
+
+G: BO with BoTorch
+
+* Acquisition Functions (LCB, PI, EI)
+* Monte Carlo batch Aquisition Functions (qEI, qlogEI, qNEI, qlogNEI)
+* Full BO loop
+
+H: Multi-fidelity Bo with BOTorch - Illustrative Example
+
+* Example of 1D input with qMFKG
+* Example of multi-dimensional input with Augmented Hartmann
 
 ## Hackathon Submission
 
