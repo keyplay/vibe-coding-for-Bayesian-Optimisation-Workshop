@@ -1,17 +1,3 @@
-################################################################################
-#                                                                              #
-#  █████   ██████  █████   ██  ██████                                          #
-#  ██   ██ ██  ██  ██   ██ ██  ██  ██                                          #
-#  █████   ██  ██  █████   ██  ██  ██                                          #
-#  ██   ██ ██  ██  ██   ██ ██  ██  ██                                          #
-#  █████   ██████  █████   ██  ██████                                          #
-#                                                                              #
-#  Author: Adrian Martens                                                      #
-#  Project: BOBIO - Bayesian Optimizaition for Bioprocesses                    #
-#  Date: November 2024                                                         #
-#                                                                              #
-################################################################################
-
 import numpy as np
 from scipy.integrate import solve_ivp
 import conditions_data as data
