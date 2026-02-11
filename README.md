@@ -24,7 +24,7 @@ A: Statistical Intuition for Gaussian Process
 * Marginalisation
 * Probablistic Conditioning
 
-B: Gaussian Process 
+B: Gaussian Process
 
 * Covariance Matrix
 * Kernel Functions
@@ -39,7 +39,7 @@ C: Bayesian Optimisation
 * 1D BO
 * Multidimensional BO
 
-D. Multi-batch Bayesian Optimisation 
+D. Multi-batch Bayesian Optimisation
 
 * Runtime of BO code
 * Priors and Posteriors
@@ -58,7 +58,7 @@ E: BO for Reaction Optimisation
 
 ### (III) Bayesian Optimisation with BOTorch
 
-This section covers notebooks F to H. The notebooks focuses on how BO is realistically deloyed for a range of applications and use cases. We move from defining each BO components ourselves from the previous sections to using an efficient BO package  called BOTorch. 
+This section covers notebooks F to H. The notebooks focuses on how BO is realistically deloyed for a range of applications and use cases. We move from defining each BO components ourselves from the previous sections to using an efficient BO package  called BOTorch.
 
 F: GP with BOTorch
 
@@ -115,7 +115,7 @@ https://colab.research.google.com/
 
 https://github.com/Yong-Labs/Bayesian-Optimisation-Workshop---Master-Student-Version/
 
-![image](https://github.com/user-attachments/assets/416100d6-634f-4e6f-b60e-668e1d705f9a)
+![1770782387039](image/README/1770782387039.png)
 
 3. Click on the desired notebook. You should now be able to access and run code on it!
 
