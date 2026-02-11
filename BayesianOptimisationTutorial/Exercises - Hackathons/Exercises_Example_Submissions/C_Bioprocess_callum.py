@@ -49,21 +49,21 @@ from sklearn.gaussian_process.kernels import Matern, ConstantKernel, WhiteKernel
 
 # vl = MockVl() # Instantiate the mock for local testing
 
-# # Define input bounds
-# BOUNDS = {
-#     'temperature': (30, 40),
-#     'pH': (6, 8),
-#     'feed1': (0, 50),
-#     'feed2': (0, 50),
-#     'feed3': (0, 50),
-#     'fidelity': (0, 2) # Discrete values 0, 1, 2
-# }
+# Define input bounds
+BOUNDS = {
+    'temperature': (30, 40),
+    'pH': (6, 8),
+    'feed1': (0, 50),
+    'feed2': (0, 50),
+    'feed3': (0, 50),
+    'fidelity': (0, 2) # Discrete values 0, 1, 2
+}
 
-# FIDELITY_COSTS = {
-#     0: 10,
-#     1: 575,
-#     2: 2100
-# }
+FIDELITY_COSTS = {
+    0: 10,
+    1: 575,
+    2: 2100
+}
 
 class GP:
     def __init__(self, X_train, Y_train):
