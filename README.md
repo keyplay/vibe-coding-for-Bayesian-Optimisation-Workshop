@@ -1,4 +1,11 @@
-# 🎉 Bayesian Optimisation Workshop Notebooks
+# A Case Study: Collaboration with Code Agent for BO
+
+## Blog posts
+
+- [AI 协作实录：生物过程优化 Hackathon](./AI_Collaboration_Case_Study_CN.md) (中文)
+- [I paired with an AI for a bioprocess optimisation hackathon](./AI_Collaboration_Case_Study_EN.md) (EN)
+- [Prompt Log during development](./C_Bioprocess_Development_Log.md)
+- [Solution](<./BayesianOptimisationTutorial/Exercises - Hackathons/Exercises_Example_Submissions/C_Bioprocess_botorch.py>)
 
 ## General Information
 
