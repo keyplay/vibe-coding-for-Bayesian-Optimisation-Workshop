@@ -1,6 +1,6 @@
 # I paired with an AI for a bioprocess optimisation hackathon
 
-Last week I entered a hackathon. The task: use Bayesian optimisation to tune a simulated CHO cell bioreactor, maximising protein titre within a virtual budget of 15,000. Five input variables (temperature, pH, three feed concentrations F1/F2/F3) and three fidelity levels. The cheap 3L reactor costs 10 per run. The expensive 15L reactor costs 2,100.
+This week I entered a hackathon. The task: use Bayesian optimisation to tune a simulated CHO cell bioreactor, maximising protein titre within a virtual budget of 15,000. Five input variables (temperature, pH, three feed concentrations F1/F2/F3) and three fidelity levels. The cheap 3L reactor costs 10 per run. The expensive 15L reactor costs 2,100.
 
 I used an AI coding assistant the entire time. Eighteen rounds of instructions later, the AI wrote most of the code, but the strategy came out of arguments between us. This is what happened.
 
